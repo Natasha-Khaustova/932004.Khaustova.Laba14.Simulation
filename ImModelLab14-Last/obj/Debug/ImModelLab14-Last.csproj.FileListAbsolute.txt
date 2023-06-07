@@ -1,0 +1,20 @@
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14_Last.Form1.resources
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14_Last.Properties.Resources.resources
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.csproj.GenerateResource.cache
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\bin\Debug\ImModelLab14-Last.exe.config
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\bin\Debug\ImModelLab14-Last.exe
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\bin\Debug\ImModelLab14-Last.pdb
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.exe
+C:\Users\chaly\source\repos\ImModelLab14-Last\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.pdb
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\bin\Debug\ImModelLab14-Last.exe.config
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\bin\Debug\ImModelLab14-Last.exe
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\bin\Debug\ImModelLab14-Last.pdb
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14_Last.Form1.resources
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14_Last.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.csproj.GenerateResource.cache
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.exe
+C:\Users\User\Desktop\3 курс\2 семестр\работы\имитационное моделирование\лр14\ImModLab14-main\ImModelLab14-Last\obj\Debug\ImModelLab14-Last.pdb
